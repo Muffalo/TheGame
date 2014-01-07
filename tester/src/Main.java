@@ -15,7 +15,8 @@ public class Main {
 	public static void main(String[] args) {
 		Database.databaseDevelopment();
 		
-		//koko
+
+		System.out.print("muffalohej");
 		
 		Render.createWindow();
 		createWorld();
