@@ -24,7 +24,6 @@ public class Main {
 		gameLoop();
 		Render.cleanUp();
 		
-		System.out.print("hej");
 	}
 
 
