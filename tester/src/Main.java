@@ -42,6 +42,7 @@ public class Main {
 		wo.addGameObject(new GameObject(100,100,50,50));
 		wo.addGameObject(new GameObject(150,100,50,50));
 		wo.addGameObject(new GameObject(200,200,100,300));
+		System.out.print("hej");
 	}
 
 }
