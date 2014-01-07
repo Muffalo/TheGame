@@ -10,11 +10,12 @@ import PlatformDependent.Render;
 
 public class Main {
 	
+	
 	private static WorldObject wo;
 	
 	public static void main(String[] args) {
 		Database.databaseDevelopment();
-		
+	System.out.println("hej");	
 		Render.createWindow();
 		createWorld();
 		gameLoop();
