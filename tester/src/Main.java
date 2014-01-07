@@ -16,6 +16,7 @@ public class Main {
 		Database.databaseDevelopment();
 
 
+		System.out.println("bl‰‰‰");
 		Render.createWindow();
 		createWorld();
 		gameLoop();
