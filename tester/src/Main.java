@@ -25,6 +25,7 @@ public class Main {
 		Render.cleanUp();
 		
 		System.out.print("hej");
+		System.out.print("hej");
 	}
 
 
