@@ -6,7 +6,7 @@ import GameEngine.GameObject;
 
 public class Database {
 	List<GameObject> go;
-	
+	//testtest
 	
 	public void addObject(GameObject goIn){
 		go.add(goIn);
