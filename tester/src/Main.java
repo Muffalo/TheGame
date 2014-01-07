@@ -14,9 +14,6 @@ public class Main {
 	
 	public static void main(String[] args) {
 		Database.databaseDevelopment();
-		
-
-		System.out.print("muffalohej");
 
 
 		Render.createWindow();
