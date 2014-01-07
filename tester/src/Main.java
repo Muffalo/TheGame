@@ -18,7 +18,6 @@ public class Main {
 
 		System.out.print("muffalohej");
 
-		System.out.print("muffalohej");
 
 		Render.createWindow();
 		createWorld();
